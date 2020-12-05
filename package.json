@@ -1,0 +1,24 @@
+{
+  "name": "my-first-project",
+  "version": "1.0.0",
+  "description": "login system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmunza/my-first-project.git"
+  },
+  "author": "Samuel Munza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelmunza/my-first-project/issues"
+  },
+  "homepage": "https://github.com/samuelmunza/my-first-project#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
